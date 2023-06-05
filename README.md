@@ -4,7 +4,7 @@
 
 
 <!-- introduction -->
-<h1 align="center">𝙷𝚒 𝚃𝚑𝚎𝚛𝚎!</h1>
+<h1 align="center">Hi! I am Andro </h1>
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
